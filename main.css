@@ -1,0 +1,28 @@
+@charset "UTF-8";
+
+body{
+  margin:4em auto;
+  max-width:43em;
+  font-family:"Nimbus Roman No9 L","FreeSerif","Times New Roman",Times,serif;
+  /*background-color:#ffffe1;*/
+  background-color:#ededec;
+}
+
+header {
+  text-align:center;
+}
+
+p{
+  font-size:1.1em;
+  line-height:1.2;
+}
+
+a:link {
+  color:navy;
+}
+a:visited {
+  color:navy;
+}
+a:hover {
+  color:blue;
+}
